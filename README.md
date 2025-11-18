@@ -136,7 +136,7 @@ SHAP values are also used to explain individual customer predictions, helping id
 
 Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/telco-churn-shap-analysis.git
+git clone https://github.com/tm-loganathan/telco-churn-shap-analysis.git
 cd telco-churn-shap-analysis
 
 Step 2: Install dependencies
